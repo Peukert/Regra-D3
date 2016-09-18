@@ -27,7 +27,7 @@ public class Regrad3 {
         System.out.println("Y ---------- Z");
         System.out.println(" ");
         
-        System.out.println("Asuma que W*Z = ao o que voce já tem e X*Y você tem somente parte.");
+        System.out.println("Assuma que W*Z = ao o que voce já tem e X*Y você tem somente parte.");
         System.out.println("A equação inicial é W*Z = X*Y");
         System.out.println(" ");
         System.out.println("Coloque os valores seguindo a seguinte ordem:");
