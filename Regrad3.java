@@ -50,7 +50,7 @@ public class Regrad3 {
         respostax = valorw*valorz/valory;
         
         System.out.println("O seu resultado é: " + respostax);
-        System.out.println("");
+        
         
         
         
